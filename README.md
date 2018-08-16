@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Nature.js
 
-You can use the [editor on GitHub](https://github.com/Yuipas/Nature.js/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### What's this?
+Nature.js is a deep-learning library.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What does this library contain?
+Nature.js contains:
+- Trained networks (XOR, AND, NOT, NAND)
+- Trainer Class
+- Networks Class
+- Much more.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yuipas/Nature.js/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Special thanks
+- The Coding Train: [GitHub](https://github.com/CodingTrain/) | [Twitter](http://twitter.com/shiffman) | [Youtube](http://youtube.com/user/shiffman)
+- 3Blue1Brown: [GitHub](https://github.com/3b1b/) | [Twitter](https://twitter.com/3blue1brown) | [Youtube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- Code Bullet: [GitHub](https://github.com/Code-Bullet/) | [Twitter](https://twitter.com/code_bullet) | [Youtube](https://www.youtube.com/CodeBullet)
